@@ -1,2 +1,2 @@
-# Todo_app_react
+# Todo app in React
 Simple Todo app made in React.
